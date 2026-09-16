@@ -2,9 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\data",
+    "\\graphics\\pokemon",
+    "\\sound",
+    "\\sound\\direct_sound_samples",
+    "\\sound\\voicegroups",
+    "\\sound\\voicegroups\\drumsets",
     "\\tools",
     "\\tools\\poryscript"
   ],
-  "SelectedNode": "\\make_tools.mk",
+  "SelectedNode": "\\sound\\voicegroups\\drumsets\\rs.inc",
   "PreviewInSolutionExplorer": false
 }

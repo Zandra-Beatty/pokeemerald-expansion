@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\maste\\Desktop\\Decomps\\pokeemerald-expansion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maste\\Desktop\\Decomps\\pokeemerald-expansion\\make_tools.mk||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:make_tools.mk||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maste\\Desktop\\Decomps\\pokeemerald-expansion\\sound\\voicegroups\\drumsets\\rs.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sound\\voicegroups\\drumsets\\rs.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "make_tools.mk",
-              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\Decomps\\pokeemerald-expansion\\make_tools.mk",
-              "RelativeDocumentMoniker": "make_tools.mk",
-              "ToolTip": "C:\\Users\\maste\\Desktop\\Decomps\\pokeemerald-expansion\\make_tools.mk",
-              "RelativeToolTip": "make_tools.mk",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB8AAAAAAAAAA==",
+              "Title": "rs.inc",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\Decomps\\pokeemerald-expansion\\sound\\voicegroups\\drumsets\\rs.inc",
+              "RelativeDocumentMoniker": "sound\\voicegroups\\drumsets\\rs.inc",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\Decomps\\pokeemerald-expansion\\sound\\voicegroups\\drumsets\\rs.inc",
+              "RelativeToolTip": "sound\\voicegroups\\drumsets\\rs.inc",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-09T01:38:34.312Z",
+              "WhenOpened": "2026-09-16T16:39:23.494Z",
               "EditorCaption": ""
             }
           ]

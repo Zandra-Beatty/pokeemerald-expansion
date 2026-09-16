@@ -1,13 +1,13 @@
 voice_group mus_amberstone
-	voice_keysplit_all voicegroup_emerald_drumset_1
+	voice_keysplit_all voicegroup_route101_drumset
 	voice_noise 60, 0, 0, 0, 0, 15, 1
 	voice_directsound 60, 0, DirectSoundWaveData_sc88pro_xylophone, 255, 235, 0, 204
 	voice_directsound 60, 0, DirectSoundWaveData_sc88pro_organ2, 255, 0, 255, 214
 	voice_directsound 60, 0, DirectSoundWaveData_sc88pro_pizzicato_strings, 255, 216, 0, 168
 	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_directsound 60, 0, DirectSoundWaveData_classical_choir_voice_ahhs, 85, 0, 154, 165
-	voice_square_2 60, 0, 1, 1, 5, 6, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
+	voice_directsound 60, 0, DirectSoundWaveData_strings_1, 255, 0, 255, 127
+	voice_square_2 60, 0, 0, 1, 5, 6, 2
+	voice_directsound 60, 0, DirectSoundWaveData_bicycle_bell, 255, 0, 255, 165
 	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
 	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
 	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
