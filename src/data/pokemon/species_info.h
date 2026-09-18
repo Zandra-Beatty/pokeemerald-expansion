@@ -298,7 +298,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .palette = gMonPalette_Sprecko,
         .shinyPalette = gMonShinyPalette_Sprecko,
         .iconSprite = gMonIcon_Sprecko,
-        .iconPalIndex = 0,
+        .iconPalIndex = 1,
         FOOTPRINT(Sprecko)
         .levelUpLearnset = sSpreckoLevelUpLearnset,
         .teachableLearnset = sSpreckoTeachableLearnset,
