@@ -1,15 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\data",
-    "\\graphics\\pokemon",
-    "\\sound",
-    "\\sound\\direct_sound_samples",
-    "\\sound\\voicegroups",
-    "\\sound\\voicegroups\\drumsets",
+    "\\src",
+    "\\src\\data",
+    "\\src\\data\\pokemon",
+    "\\src\\data\\pokemon\\species_info",
     "\\tools",
+    "\\tools\\learnset_helpers",
     "\\tools\\poryscript"
   ],
-  "SelectedNode": "\\sound\\voicegroups\\drumsets\\rs.inc",
   "PreviewInSolutionExplorer": false
 }

@@ -1,4 +1,10 @@
 {
+  "SPRECKO": [
+      "MOVE_SOLAR_BEAM",
+      "MOVE_TOXIC",
+      "MOVE_GIGA_DRAIN",
+      "MOVE_TAUNT"
+  ],
   "PINCURCHIN": [
     "MOVE_ACUPRESSURE",
     "MOVE_ASSURANCE",

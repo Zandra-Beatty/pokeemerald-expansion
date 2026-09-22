@@ -246,6 +246,68 @@ const struct SpeciesInfo gSpeciesInfo[] =
         //.perfectIVCount = NUM_STATS,
     },
     */
+     [SPECIES_SPRECKO] =
+    {
+        .baseHP        = 70,
+        .baseAttack    = 50,
+        .baseDefense   = 55,
+        .baseSpeed     = 40,
+        .baseSpAttack  = 45,
+        .baseSpDefense = 60,
+        .types = MON_TYPES(TYPE_GRASS),
+        .catchRate = 45,
+        .expYield = 60,
+        .evYield_SpDefense = 1,
+        .genderRatio = PERCENT_FEMALE(50),
+        .eggCycles = 20,
+        .friendship = STANDARD_FRIENDSHIP,
+        .growthRate = GROWTH_MEDIUM_SLOW,
+        .eggGroups = MON_EGG_GROUPS(EGG_GROUP_GRASS),
+        .abilities = { ABILITY_REGENERATOR, ABILITY_NONE, ABILITY_SCREEN_CLEANER },
+        .bodyColor = BODY_COLOR_GREEN,
+        .speciesName = _("Sprecko"),
+        .cryId = CRY_SPRECKO,
+        .natDexNum = NATIONAL_DEX_NONE,
+        .categoryName = _("Fungus"),
+        .height = 4,
+        .weight = 60,
+        .description = COMPOUND_STRING(
+            "Its body is covered in microscopic\n"
+            "fungal feelers, making it feel\n"
+            "sticky. They tend to all varieties\n"
+            "of plant life."),
+        .pokemonScale = 256,
+        .pokemonOffset = 0,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+        .frontPic = gMonFrontPic_Sprecko,
+        .frontPicSize = MON_COORDS_SIZE(64, 64),
+        .frontPicYOffset = 0,
+        .frontAnimFrames = ANIM_FRAMES(
+            ANIMCMD_FRAME(0, 6),
+            ANIMCMD_FRAME(1, 15),
+            ANIMCMD_FRAME(0, 6),
+            ANIMCMD_FRAME(1, 15),
+            ANIMCMD_FRAME(0, 3),
+    ),
+        .frontAnimId = ANIM_V_SQUISH_AND_BOUNCE,
+        .backPic = gMonBackPic_Sprecko,
+        .backPicSize = MON_COORDS_SIZE(64, 64),
+        .backPicYOffset = 7,
+        .backAnimId = BACK_ANIM_NONE,
+        .palette = gMonPalette_Sprecko,
+        .shinyPalette = gMonShinyPalette_Sprecko,
+        .iconSprite = gMonIcon_Sprecko,
+        .iconPalIndex = 1,
+        FOOTPRINT(Sprecko)
+        .levelUpLearnset = sSpreckoLevelUpLearnset,
+        .teachableLearnset = sSpreckoTeachableLearnset,
+        .evolutions = EVOLUTION({EVO_LEVEL, 100, SPECIES_NONE},
+                                {EVO_ITEM, ITEM_MOOMOO_MILK, SPECIES_NONE}),
+        //.formSpeciesIdTable = sNoneFormSpeciesIdTable,
+        //.formChangeTable = sNoneFormChangeTable,
+        //.perfectIVCount = NUM_STATS,
+    },
 };
 
 const struct EggData gEggDatas[EGG_ID_COUNT] =
